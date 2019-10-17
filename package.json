@@ -70,7 +70,7 @@
     "@babel/preset-typescript": "7.6.0",
     "@semantic-release/changelog": "3.0.4",
     "@semantic-release/git": "7.0.16",
-    "@semantic-release/npm": "5.1.13",
+    "@semantic-release/npm": "5.2.0",
     "@shopify/jest-dom-mocks": "2.8.4",
     "@storybook/addon-actions": "5.1.11",
     "@storybook/addon-knobs": "5.1.11",
